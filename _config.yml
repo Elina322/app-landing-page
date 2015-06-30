@@ -1,6 +1,6 @@
 # general configuration
 url: http://finchler.com
-baseurl: '/app-landing-page'
+baseurl: '/'
 
 # app configuration
 app:
